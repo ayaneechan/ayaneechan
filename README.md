@@ -1,3 +1,5 @@
+<center><img src="ayaneechan.svg"></img></center>
+
 ### My OS
 [![](https://img.shields.io/badge/Artix-Linux%20OS-blue?style=for-the-badge&logo=artixlinux)](https://artixlinux.org/)
 
