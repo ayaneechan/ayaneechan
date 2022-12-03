@@ -1,4 +1,5 @@
-### Hi there 👋
+### My OS
+![https://img.shields.io/badge/Artix-Linux%20OS-blue?style=for-the-badge&logo=artixlinux](https://artixlinux.org/)
 
 <!--
 **ayaneechan/ayaneechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
