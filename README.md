@@ -7,6 +7,10 @@
 
 [![](https://img.shields.io/badge/Mastodon-social-blue?style=social&logo=mastodon)](https://mstdn.social/@ayaneechan)
 
+[![](https://img.shields.io/badge/Mastodon-social-blue?style=social&logo=mastodon)](https://mstdn.social/@ayaneechan)
+
+[![](https://img.shields.io/badge/xmpp-red?style=plastic&logo=xmpp)](xmpp:ayaneechan@jabber.de)
+
 ## You can find me on:
 - ![](https://img.shields.io/badge/Artix-Linux%20OS-blue?style=plastic&logo=artixlinux) I’m currently working on Artix intallation guides 
 - ![](https://img.shields.io/badge/coding-black?style=plastic&logo=iTerm2) I’m currently learning coding
