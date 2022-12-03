@@ -9,9 +9,9 @@
 [![](https://img.shields.io/badge/xmpp-black?style=plastic&logo=xmpp)](xmpp:ayaneechan@jabber.de)
 
 ## You can find me on:
-- ![](https://img.shields.io/badge/Artix-Linux%20OS-blue?style=plastic&logo=artixlinux) I’m currently working on Artix intallation guides 
-- ![](https://img.shields.io/badge/coding-black?style=plastic&logo=iTerm2) I’m currently learning coding
+- I’m currently working on Artix intallation guides ![](https://img.shields.io/badge/Artix-Linux%20OS-blue?style=plastic&logo=artixlinux)
+- I’m currently learning coding ![](https://img.shields.io/badge/coding-black?style=plastic&logo=iTerm2)
 - I’m looking for help with my projects
-- 🏳️‍⚧️ Pronouns: she/her
+- My pronouns: she/her 🏳️‍⚧️
 
 #### **ayaneechan/ayaneechan** is my ✨ _special_ ✨ repository because its my `README.md`
