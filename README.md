@@ -3,12 +3,9 @@
 
 ## You can find me on:
 
-[![](https://img.shields.io/badge/Twitter-social-blue?style=social&logo=twitter)](https://twitter.com/ayacoronachan)
-
+[![](https://img.shields.io/badge/Twitter-black?style=plastic&logo=twitter)](https://twitter.com/ayacoronachan)
+[![](https://img.shields.io/badge/Mastodon-black?style=plastic&logo=mastodon)](https://mstdn.social/@ayaneechan)
 [![](https://img.shields.io/badge/Mastodon-social-blue?style=social&logo=mastodon)](https://mstdn.social/@ayaneechan)
-
-[![](https://img.shields.io/badge/Mastodon-social-blue?style=social&logo=mastodon)](https://mstdn.social/@ayaneechan)
-
 [![](https://img.shields.io/badge/xmpp-red?style=plastic&logo=xmpp)](xmpp:ayaneechan@jabber.de)
 
 ## You can find me on:
