@@ -1,5 +1,6 @@
 ### My OS
-[![](https://img.shields.io/badge/Artix-Linux%20OS-blue?style=for-the-badge&logo=artixlinux)](https://artixlinux.org/)
+[![](https://img.shields.io/badge/OS-Artix%20linux-blue?style=for-the-badge&logo=artixlinux)](https://artixlinux.org/)
+[![](https://img.shields.io/badge/OS-Lineage-167C80?style=for-the-badge&logo=lineageos)](https://lineageos.org/)
 
 ## You can find me on:
 
