@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/gmail-black?style=plastic&logo=gmail)](mailto:ayaartixlinux@gmail.com)
 [![](https://img.shields.io/badge/xmpp-black?style=plastic&logo=xmpp)](xmpp:ayaneechan@jabber.de)
 
-## You can find me on:
+## About me:
 - I’m currently working on Artix intallation guides
 - I’m currently learning coding 
 - I’m looking for help with my projects
