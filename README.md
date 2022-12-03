@@ -1,7 +1,7 @@
 ### My OS
 [![](https://img.shields.io/badge/Artix-Linux%20OS-blue?style=for-the-badge&logo=artixlinux)](https://artixlinux.org/)
 
-##You can find me on:
+###You can find me on:
 
 [![](https://img.shields.io/badge/Twitter-social-blue?style=social&logo=twitter)](https://twitter.com/ayacoronachan)
 
