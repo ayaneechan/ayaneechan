@@ -13,4 +13,4 @@
 - I’m looking for help with my projects
 - 🏳️‍⚧️ Pronouns: she/her
 
-**ayaneechan/ayaneechan** is my ✨ _special_ ✨ repository because its my `README.md`
+# **ayaneechan/ayaneechan** is my ✨ _special_ ✨ repository because its my `README.md`
