@@ -21,7 +21,9 @@
 - I’m currently working on Artix intallation guides
 - I’m currently learning coding 
 - I’m looking for help with my projects
-- My pronouns: she/her 
-- [![](https://img.shields.io/badge/Donations-Bitcoin-F7931A?style=flat&logo=Bitcoin)](http://bitcoin:bc1qt4z3teplk4d5rff0pqlcvtr2n2k0qhns4s8060)
+- My pronouns: she/her </br>
+ 
+[![](https://img.shields.io/badge/Donations-Bitcoin-F7931A?style=flat&logo=Bitcoin)](http://bitcoin:bc1qt4z3teplk4d5rff0pqlcvtr2n2k0qhns4s8060)
+[![](https://img.shields.io/badge/Donations-PayPal-00457C?style=flat&logo=Paypal)(https://www.paypal.com/paypalme/ayacorona)
 
 <center><img src="ayaneechan.svg"></img></center>
