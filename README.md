@@ -5,10 +5,10 @@
 [![](https://img.shields.io/badge/Terminal-Alacritty-FF5F00?style=for-the-badge&logo=alacritty)](https://alacritty.org/)
 [![](https://img.shields.io/badge/Shell-Bash-00A550?style=for-the-badge&logo=GNU%20Bash)](https://www.gnu.org/software/bash/)
 
-
 ## Smartphone
 [![](https://img.shields.io/badge/Oneplus-8%20pro-F50514?style=for-the-badge&logo=oneplus)](https://www.oneplus.com/)
 [![](https://img.shields.io/badge/OS-Lineage-167C80?style=for-the-badge&logo=lineageos)](https://lineageos.org/)
+[![](https://img.shields.io/badge/Store-FDroid-1976D2?style=for-the-badge&logo=F-Droid)](https://f-droid.org/)
 
 ## You can find me on:
 
@@ -22,6 +22,7 @@
 - I’m currently learning coding 
 - I’m looking for help with my projects
 - My pronouns: she/her </br>
+ 
 [![](https://img.shields.io/badge/Buy%20me%20a-Coffee-FFDD00?style=flat&logo=Buy%20Me%20A%20Coffee)](https://www.buymeacoffee.com/ayaneechan)
 
 <center><img src="ayaneechan.svg"></img></center>
