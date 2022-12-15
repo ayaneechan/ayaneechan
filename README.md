@@ -22,6 +22,6 @@
 - I’m currently learning coding 
 - I’m looking for help with my projects
 - My pronouns: she/her 
-[![](https://img.shields.io/badge/Donations-Bitcoin-F7931A?style=flat&logo=Bitcoin)](bitcoin:bc1qt4z3teplk4d5rff0pqlcvtr2n2k0qhns4s8060)
+- [![](https://img.shields.io/badge/Donations-Bitcoin-F7931A?style=flat&logo=Bitcoin)](bitcoin:bc1qt4z3teplk4d5rff0pqlcvtr2n2k0qhns4s8060)
 
 <center><img src="ayaneechan.svg"></img></center>
