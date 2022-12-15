@@ -24,6 +24,6 @@
 - My pronouns: she/her </br>
  
 [![](https://img.shields.io/badge/Donations-Bitcoin-F7931A?style=flat&logo=Bitcoin)](http://bitcoin:bc1qt4z3teplk4d5rff0pqlcvtr2n2k0qhns4s8060)
-[![](https://img.shields.io/badge/Donations-PayPal-00457C?style=flat&logo=Paypal)]()
+[![](https://img.shields.io/badge/Buy%20me%20a-Coffee-FFDD00?style=flat&logo=Buy%20Me%20A%20Coffee)](https://www.buymeacoffee.com/ayaneechan)
 
 <center><img src="ayaneechan.svg"></img></center>
