@@ -1,5 +1,13 @@
-### My OS
+## Laptop
+[![](https://img.shields.io/badge/Lenovo-Thinkpad-E42022?style=for-the-badge&logo=lenovo)](https://www.lenovo.com/)
+[![](https://img.shields.io/badge/AMD-Ryzen%205%20Pro%202500U-ED1C24?style=for-the-badge&logo=amd)](https://www.amd.com/)
 [![](https://img.shields.io/badge/OS-Artix%20linux-blue?style=for-the-badge&logo=artixlinux)](https://artixlinux.org/)
+[![](https://img.shields.io/badge/Terminal-Alacritty-FF5F00?style=for-the-badge&logo=alacritty)](https://alacritty.org/)
+[![](https://img.shields.io/badge/Shell-Bash-00A550?style=for-the-badge&logo=GNU%20Bash)](https://www.gnu.org/software/bash/)
+
+
+## Smartphone
+[![](https://img.shields.io/badge/Oneplus-8%20pro-F50514?style=for-the-badge&logo=oneplus)](https://www.oneplus.com/)
 [![](https://img.shields.io/badge/OS-Lineage-167C80?style=for-the-badge&logo=lineageos)](https://lineageos.org/)
 
 ## You can find me on:
