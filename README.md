@@ -10,7 +10,7 @@ included in all copies or substantial portions of the Software.
 <!-- code inspired by - https://github.com/0xTRAW -->
 
 <!DOCTYPE html>
-<h1 align="center"> Welcome to Aya Corona's github &nbsp;<a href="https://www.buymeacoffee.com/ayaneechan)" alt="coffee"><img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-FFDD00?style=flat&logo=Buy%20Me%20A%20Coffee"/></a></h1>  
+<h1 align="center"> Welcome to Aya Corona's github &nbsp;<a href="https://www.buymeacoffee.com/ayaneechan" alt="coffee"><img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-FFDD00?style=flat&logo=Buy%20Me%20A%20Coffee"/></a></h1>  
 <!-- Credits: https://github.com/DenverCoder1/readme-typing-svg/ -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Itim&size=26&duration=6000&pause=1500&color=F4279D&center=true&vCenter=true&width=600&lines=++++++I%E2%80%99m+currently+working+on+Artix+intallation+guides;++I%E2%80%99m+currently+learning+coding;++I%E2%80%99m+looking+for+help+with+my+projects;My+pronouns%3A+she%2Fher" alt="Typing SVG" /></a>
