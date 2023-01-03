@@ -32,7 +32,7 @@ included in all copies or substantial portions of the Software.
 
 <h2 align="center"> You can find me on: </h2>
 <p align="center">&nbsp;<a href="https://github.com/ayaneechan/"><img width="35" height="35" src="icons/github.svg"></img></a>
-&nbsp;<a href="https://steamcommunity.com/id/Aya-chan99"><img width="35" height="35" src="icons/twitter.svg"></img></a>
+&nbsp;<a href="https://twitter.com/ayacoronachan"><img width="35" height="35" src="icons/twitter.svg"></img></a>
 &nbsp;<a href="https://steamcommunity.com/id/Aya-chan99"><img width="35" height="35" src="icons/steam.svg"></img></a>
 &nbsp;<a href="xmpp:ayaneechan@jabber.de"><img width="35" height="35" src="icons/xmpp.svg"></img></a>
 &nbsp;<a href="https://mastodon.uno/@ayaneechan"><img width="35" height="35" src="icons/mastodon.svg"></img></a></p>
