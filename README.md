@@ -1,3 +1,8 @@
+
+<!-- Credits: https://github.com/DenverCoder1/readme-typing-svg/ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Itim&size=26&duration=10&color=F4279D&center=true&vCenter=true&repeat=false&width=600&lines=Aya+Corona)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Itim&size=26&duration=6000&pause=1500&color=F4279D&center=true&vCenter=true&width=600&lines=++++++I%E2%80%99m+currently+working+on+Artix+intallation+guides;++I%E2%80%99m+currently+learning+coding;++I%E2%80%99m+looking+for+help+with+my+projects;My+pronouns%3A+she%2Fher)](https://git.io/typing-svg)
+
 ## Laptop
 [![](https://img.shields.io/badge/Lenovo-Thinkpad-E42022?style=for-the-badge&logo=lenovo)](https://www.lenovo.com/)
 [![](https://img.shields.io/badge/AMD-Ryzen%205%20Pro%202500U-ED1C24?style=for-the-badge&logo=amd)](https://www.amd.com/)
