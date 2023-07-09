@@ -18,17 +18,18 @@ included in all copies or substantial portions of the Software.
 <center><img src="ayaneechan.svg"></img></center>
 <br>
 <h2 align="center"> Laptop </h2>
-<p align="center"><a href="https://www.lenovo.com/" alt="Lenovo"><img src="https://img.shields.io/badge/Lenovo-Thinkpad-E42022?style=for-the-badge&logo=lenovo"/></a>
-<a href="https://www.amd.com/" alt="AMD"><img src="https://img.shields.io/badge/AMD-Ryzen%205%20Pro%202500U-ED1C24?style=for-the-badge&logo=amd"/></a>
-<a href="https://artixlinux.org/" alt="Artix Linux"><img src="https://img.shields.io/badge/OS-Artix%20linux-blue?style=for-the-badge&logo=artixlinux"/></a>
-<a href="https://alacritty.org/" alt="Alacritty"><img src="https://img.shields.io/badge/Terminal-Alacritty-FF5F00?style=for-the-badge&logo=alacritty"/></a>
-<a href="https://www.gnu.org/software/bash/" alt="Bash"><img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash"/></a></p>
+<p align="center"><a href="https://www.lenovo.com" alt="Lenovo"><img src="https://img.shields.io/badge/Lenovo-Thinkpad-E42022?style=for-the-badge&logo=lenovo"/></a>
+<a href="https://www.amd.com" alt="AMD"><img src="https://img.shields.io/badge/AMD-Ryzen%205%20Pro%202500U-ED1C24?style=for-the-badge&logo=amd"/></a>
+<a href="https://artixlinux.org" alt="Artix Linux"><img src="https://img.shields.io/badge/OS-Artix%20linux-blue?style=for-the-badge&logo=artixlinux"/></a>
+<a href="https://alacritty.org" alt="Alacritty"><img src="https://img.shields.io/badge/Terminal-Alacritty-FF5F00?style=for-the-badge&logo=alacritty"/></a>
+<a href="https://www.gnu.org/software/bash" alt="Bash"><img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash"/></a></p>
 
 
 <h2 align="center"> Smartphone </h2>
-<p align="center"><a href="https://www.oneplus.com/" alt="Oneplus"><img src="https://img.shields.io/badge/Oneplus-8%20pro-F50514?style=for-the-badge&logo=oneplus"/></a>
-<a href="https://lineageos.org/" alt="Lineage OS"><img src="https://img.shields.io/badge/OS-Lineage-167C80?style=for-the-badge&logo=lineageos"/></a>
-<a href="https://f-droid.org/)" alt="Bash"><img src="https://img.shields.io/badge/Store-FDroid-1976D2?style=for-the-badge&logo=F-Droid"/></a></p>
+<p align="center"><a href="https://store.google.com" alt="Google"><img src="https://img.shields.io/badge/Google-Pixel-4285F4?style=for-the-badge&logo=google"/></a>
+<a href="https://android.com" alt="Android OS"><img src="https://img.shields.io/badge/OS-Android-3DDC84?style=for-the-badge&logo=android"/></a>
+<a href="https://play.google.com" alt="Google Play"><img src="https://img.shields.io/badge/Store-Google%20Play-414141?style=for-the-badge&logo=google%20play"/></a>
+<a href="https://f-droid.org" alt="F-Droid"><img src="https://img.shields.io/badge/Store-FDroid-1976D2?style=for-the-badge&logo=F-Droid"/></a></p>
 
 <h2 align="center"> You can find me on: </h2>
 <p align="center">&nbsp;<a href="https://github.com/ayaneechan/"><img width="35" height="35" src="icons/github.svg"></img></a>
