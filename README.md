@@ -39,5 +39,5 @@ included in all copies or substantial portions of the Software.
 &nbsp;<a href="https://mastodon.uno/@ayaneechan"><img width="35" height="35" src="icons/mastodon.svg"></img></a></p>
 
 <p align="center">
-<a href="https://www.who.int/data/gho/data/themes/public-health-and-environment"><img width="24" height="24" id="eco" src="https://uxwing.com/wp-content/themes/uxwing/download/nature-and-environment/environment-icon.png"</a>
+<a href="https://www.who.int/data/gho/data/themes/public-health-and-environment"><img width="24" height="24" id="eco" src="https://img.uxwing.com/wp-content/themes/uxwing/download/nature-environment-ecology/environment-icon.svg"</a>
 <span style="color:green; font-font-family:comic sans ms,sans-serif"><strong>Please take care of the environment</strong></span></p>
